@@ -1,2 +1,18 @@
-body
-background-color
+{
+margin:0;
+padding:0;
+}
+
+.cabecalho
+:background-color:
+color:-white
+display:flex;
+justify-content:space-around
+aling-items:center;
+padding:24px 0;
+}
+
+.cabecalho-imagem{
+width: 20
+}
+
